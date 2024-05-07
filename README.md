@@ -1,7 +1,7 @@
 ### Hello There! 👋
 I'm Tom, an aspiring Java Developer actively learning and honing my skills. I'm seeking opportunities to contribute and grow in a dynamic team environment. I've already gained some experience as an Automation Tester so I'm eager to develop in this direction as well.
 
-- 🌱 I am systematically broadening my knowledge of Java and Spring, currently focusing on backend development of REST services.
+- 🌱 I am systematically broadening my knowledge of Java and Spring, currently focusing on backend development of REST services and aspects of test automation with Java.
 - 🔭 In the short term I plan to dive a bit into worlds of microservices and containers.
 - 💬 My GitHub profile is currently modest, but I hope to develop and add more projects soon.
   
