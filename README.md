@@ -1,7 +1,7 @@
 ### Hello There! 👋
-I'm Tom, an aspiring Java Developer actively learning and honing my skills. I'm seeking opportunities to contribute and grow in a dynamic team environment.
+I'm Tom, an aspiring Java Developer actively learning and honing my skills. I'm seeking opportunities to contribute and grow in a dynamic team environment. I've already gained some experience as an Automation Tester so I'm eager to develop in this direction as well.
 
-- 🌱 Systematically broadening my knowledge of Java and Spring, currently focusing on backend development of REST services.
+- 🌱 I am systematically broadening my knowledge of Java and Spring, currently focusing on backend development of REST services.
 - 🔭 In the short term I plan to dive a bit into worlds of microservices and containers.
 - 💬 My GitHub profile is currently modest, but I hope to develop and add more projects soon.
   
@@ -20,6 +20,7 @@ I'm Tom, an aspiring Java Developer actively learning and honing my skills. I'm 
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="hibernate" src="https://img.shields.io/badge/Hibernate-%2359666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white" />
 <img align="left" alt="junit" src="https://img.shields.io/badge/jUnit-%2325A162.svg?&style=for-the-badge&logo=junit5&logoColor=white" />
+<img align="left" alt="Selenium" src="https://img.shields.io/badge/Selenium-%237bc769.svg?&style=for-the-badge&logo=selenium&logoColor=white" />
 
 
 <br>
